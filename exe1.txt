@@ -1,0 +1,71 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Author : Marcel Kopták, Tomas Polasek (template)
+% Description : First exercise in the Introduction to Game Development course.
+%   It deals with an analysis of a selected title from the point of its genre, 
+%   style, and mechanics.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper,10pt,english]{article}
+
+\usepackage[left=2.50cm,right=2.50cm,top=1.50cm,bottom=2.50cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, urlcolor=blue}
+
+\newcommand{\ph}[1]{\textit{[#1]}}
+
+\title{%
+Analysis of Mechanics%
+}
+\author{%
+[Marcel] [Kopták] ([xkoptam00])%
+}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+{%
+\large
+
+\begin{itemize}
+
+\item[] \textbf{Title:} \ph{Stellaris}
+
+\item[] \textbf{Released:} \ph{2016}
+
+\item[] \textbf{Author:} \ph{Paradox Interactive}
+
+\item[] \textbf{Primary Genre:} \ph{Grand Strategy}
+
+\item[] \textbf{Secondary Genre:} \ph{4X, Real-Time Strategy}
+
+\item[] \textbf{Style:} \ph{Semi-realistic sci-fi with abstract UI elements}
+
+\end{itemize}
+
+}
+
+\section*{\centering Analysis}
+
+\subsection*{Overview of Stellaris   }
+Stellaris is a science fiction grand strategy game developed by Paradox Interactive, first released in 2016. It combines traditional elements of 4X gameplay with real-time grand strategy, placing the player in control of an interstellar empire during its early stages of space exploration.
+
+\subsection*{Primary Genre and Gameplay}
+Grand strategy in Stellaris means managing many parts of your empire at the same time. Players need to make choices that affect the long-term growth and stability of their civilisation. The game requires balancing resources, research, diplomacy, and expansion. Thinking ahead is very important; unexpected events and rival empires make careful planning essential.
+
+The main gameplay focuses on running an interstellar empire, as I mentioned before, important decisions about the military, economy, politics, and diplomacy are a main part of the game. Players can explore space, colonise or conquer planets, research new technologies, build fleets, and deal with different factions. Instead of controlling individual units, Stellaris is about planning on a large scale, which is typical for the grand strategy genre.
+
+\subsection*{Secondary Genres: 4X and RTS}
+\textit{Stellaris} also includes many 4X elements: players \textit{explore} random star systems, \textit{expand} by colonising planets, \textit{exploit}  resources to grow their empire, and \textit{exterminate }or ally with alien civilisations  through war or diplomacy. The real-time strategy aspect comes from the continuous flow of time, which can be paused or sped up, so players must react quickly to changes in the galaxy.
+
+These genres work together very well. The 4X systems shape the early and mid-game, while the grand strategy parts keep the later stages interesting and complex. Real-time gameplay makes the universe feel alive but still manageable thanks to the ability to pause or automate actions.
+
+\subsection*{Style and Presentation}
+Visually, Stellaris combines detailed 3D views of space with a clean and simple interface that makes it easy to keep track of everything. The science fiction aesthetic, characterised by detailed spacecraft, colourful stellar environments, and an atmospheric soundtrack, effectively creates a strong feeling of scale and exploration. The overall design stays clear and elegant, supporting strategic play while still letting players feel the wonder of exploring a vast galaxy.
+
+In conclusion, \textit{Stellaris} effectively combines grand strategy depth with the exploratory and expansionist spirit of 4X games. The style serves the gameplay both functionally and thematically, making it a strong example of how genre and design can work in harmony.
+
+\end{document}
